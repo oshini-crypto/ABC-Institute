@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Taxi Service API1",
+    "title": "Taxi Service API12",
     "version": "1.0.0",
     "description": "A RESTful CRUD API for managing taxi bookings, drivers, and passengers."
   },
